@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4em;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1em;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.game {
+  text-align: center;
+  margin: 0 auto;
+}
+
+form {
+  font-size: 1em;
+}
+
+input, button {
+    font-size: 1.5em;
+}
+.scrambled, input, button {
+    font-family: monospace;
+}
+
+button {
+  border-radius: 10px;
+}
+
+.scrambled {
+  font-size: 2em;
+}
+
+#win-lose-message {
+    font-size: 3em;
+}
